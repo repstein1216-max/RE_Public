@@ -1,0 +1,31 @@
+listing_id,list_date,address,city,state,zip_code,neighborhood,property_type,bedrooms,bathrooms,sq_ft,monthly_rent,rent_per_sqft,is_vacant,estimated_property_value,annual_rental_yield
+R001,2024-01-05,100 Maple St Unit 1,Springfield,IL,62701,Downtown,Condo,1,1.0,650,950,1.46,FALSE,145000,0.0786
+R002,2024-01-08,200 Oak Ave,Springfield,IL,62702,Westside,Single Family,3,1.5,1400,1800,1.29,FALSE,260000,0.0831
+R003,2024-01-12,300 Pine Rd Apt 2B,Springfield,IL,62703,Northgate,Condo,2,1.0,900,1350,1.50,TRUE,195000,0.0831
+R004,2024-01-15,400 Elm Dr,Springfield,IL,62704,Southview,Single Family,4,2.0,1900,2200,1.16,FALSE,310000,0.0852
+R005,2024-01-19,500 Cedar Ln Unit 5,Springfield,IL,62701,Downtown,Condo,2,2.0,1050,1450,1.38,FALSE,210000,0.0829
+R006,2024-01-22,600 Birch Blvd,Springfield,IL,62702,Westside,Single Family,3,2.0,1600,1950,1.22,FALSE,285000,0.0821
+R007,2024-02-01,700 Spruce Way Apt 3A,Springfield,IL,62703,Northgate,Condo,1,1.0,720,1050,1.46,FALSE,155000,0.0813
+R008,2024-02-05,800 Willow Ct,Springfield,IL,62704,Southview,Single Family,3,1.5,1550,1750,1.13,TRUE,248000,0.0847
+R009,2024-02-09,900 Ash St Unit 7,Springfield,IL,62701,Downtown,Condo,2,2.0,1100,1600,1.45,FALSE,232000,0.0828
+R010,2024-02-12,1000 Poplar Ave,Springfield,IL,62702,Westside,Single Family,4,2.5,2100,2500,1.19,FALSE,368000,0.0815
+R011,2024-02-18,1100 Magnolia Dr,Springfield,IL,62703,Northgate,Single Family,5,3.0,2800,3200,1.14,FALSE,520000,0.0738
+R012,2024-02-22,1200 Sycamore Rd,Springfield,IL,62704,Southview,Townhouse,3,2.0,1450,1900,1.31,FALSE,278000,0.0820
+R013,2024-03-01,1300 Hickory Ln Unit 2,Springfield,IL,62701,Downtown,Condo,1,1.0,600,900,1.50,TRUE,138000,0.0783
+R014,2024-03-06,1400 Walnut Blvd,Springfield,IL,62702,Westside,Single Family,3,2.0,1700,2050,1.21,FALSE,298000,0.0825
+R015,2024-03-10,1500 Chestnut St Apt 4C,Springfield,IL,62703,Northgate,Condo,2,1.5,980,1400,1.43,FALSE,205000,0.0820
+R016,2024-03-14,1600 Beech Dr,Springfield,IL,62704,Southview,Single Family,4,2.5,2200,2600,1.18,FALSE,385000,0.0810
+R017,2024-03-19,1700 Dogwood Way,Springfield,IL,62701,Downtown,Townhouse,2,2.0,1300,1750,1.35,FALSE,258000,0.0814
+R018,2024-03-25,1800 Redwood Ave,Springfield,IL,62702,Westside,Single Family,5,3.0,2900,3400,1.17,FALSE,545000,0.0748
+R019,2024-04-02,1900 Juniper Ct Unit 1B,Springfield,IL,62703,Northgate,Condo,1,1.0,710,1025,1.44,FALSE,152000,0.0809
+R020,2024-04-07,2000 Cypress Rd,Springfield,IL,62704,Southview,Single Family,3,2.0,1650,1900,1.15,TRUE,272000,0.0838
+R021,2024-04-11,2100 Laurel Blvd,Springfield,IL,62701,Downtown,Condo,3,2.0,1250,1750,1.40,FALSE,268000,0.0784
+R022,2024-04-16,2200 Linden St,Springfield,IL,62702,Westside,Single Family,4,2.0,2000,2350,1.18,FALSE,348000,0.0810
+R023,2024-04-21,2300 Maplewood Dr,Springfield,IL,62703,Northgate,Single Family,4,3.0,2600,3050,1.17,FALSE,488000,0.0750
+R024,2024-04-25,2400 Clearview Ln,Springfield,IL,62704,Southview,Townhouse,3,2.5,1600,2050,1.28,FALSE,302000,0.0815
+R025,2024-05-01,2500 Ridgewood Ave,Springfield,IL,62701,Downtown,Condo,2,1.5,850,1250,1.47,TRUE,185000,0.0811
+R026,2024-05-07,2600 Hillside Rd,Springfield,IL,62702,Westside,Single Family,3,1.5,1500,1800,1.20,FALSE,262000,0.0824
+R027,2024-05-12,2700 Meadowview Ct Apt 8,Springfield,IL,62703,Northgate,Condo,2,2.0,1000,1450,1.45,FALSE,215000,0.0809
+R028,2024-05-17,2800 Brookside Dr,Springfield,IL,62704,Southview,Single Family,4,2.5,2300,2700,1.17,FALSE,402000,0.0806
+R029,2024-05-22,2900 Lakewood Blvd,Springfield,IL,62701,Downtown,Condo,3,2.5,1400,2000,1.43,FALSE,312000,0.0769
+R030,2024-05-28,3000 Oakwood Ave,Springfield,IL,62702,Westside,Single Family,5,4.0,3200,3800,1.19,FALSE,598000,0.0762

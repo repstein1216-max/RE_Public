@@ -1,0 +1,33 @@
+sale_id,sale_date,list_date,address,city,state,zip_code,neighborhood,property_type,bedrooms,bathrooms,sq_ft,lot_size_sqft,year_built,list_price,sale_price,days_on_market,price_per_sqft,list_to_sale_ratio,agent_name,brokerage
+S001,2024-01-15,2023-12-28,123 Maple St,Springfield,IL,62701,Downtown,Single Family,3,2.0,1850,7200,1998,285000,279000,18,150.81,0.979,Jane Smith,Premier Realty
+S002,2024-01-22,2024-01-05,456 Oak Ave,Springfield,IL,62702,Westside,Condo,2,2.0,1100,0,2005,195000,198500,17,180.45,1.018,Bob Johnson,City Living Realty
+S003,2024-02-03,2024-01-10,789 Pine Rd,Springfield,IL,62703,Northgate,Single Family,4,2.5,2300,8500,2001,375000,370000,24,160.87,0.987,Carol Williams,Premier Realty
+S004,2024-02-14,2024-01-30,321 Elm Dr,Springfield,IL,62701,Downtown,Townhouse,3,2.5,1650,1500,2010,310000,315000,15,190.91,1.016,Jane Smith,Premier Realty
+S005,2024-02-28,2024-02-05,654 Cedar Ln,Springfield,IL,62704,Southview,Single Family,3,1.5,1600,6800,1985,225000,219000,23,136.88,0.973,David Lee,Horizon Homes
+S006,2024-03-07,2024-02-15,987 Birch Blvd,Springfield,IL,62702,Westside,Single Family,5,3.0,2900,10200,2015,489000,485000,20,167.24,0.992,Carol Williams,Premier Realty
+S007,2024-03-19,2024-03-01,147 Spruce Way,Springfield,IL,62703,Northgate,Condo,1,1.0,750,0,2018,145000,148000,18,197.33,1.021,Alice Brown,City Living Realty
+S008,2024-03-25,2024-03-08,258 Willow Ct,Springfield,IL,62704,Southview,Single Family,4,2.0,2100,9000,1992,345000,338000,17,161.00,0.980,David Lee,Horizon Homes
+S009,2024-04-02,2024-03-14,369 Ash St,Springfield,IL,62701,Downtown,Condo,2,1.5,980,0,2008,175000,175000,19,178.57,1.000,Bob Johnson,City Living Realty
+S010,2024-04-11,2024-03-22,741 Poplar Ave,Springfield,IL,62702,Westside,Single Family,3,2.0,1750,7500,2003,299000,295000,20,168.57,0.987,Jane Smith,Premier Realty
+S011,2024-04-23,2024-04-02,852 Magnolia Dr,Springfield,IL,62703,Northgate,Single Family,4,3.0,2500,11000,2012,425000,430000,21,172.00,1.012,Alice Brown,City Living Realty
+S012,2024-05-01,2024-04-10,963 Sycamore Rd,Springfield,IL,62704,Southview,Townhouse,2,2.0,1400,1200,2007,245000,242000,21,172.86,0.988,David Lee,Horizon Homes
+S013,2024-05-14,2024-04-25,135 Hickory Ln,Springfield,IL,62701,Downtown,Single Family,3,2.0,1900,8000,1996,320000,318000,19,167.37,0.994,Carol Williams,Premier Realty
+S014,2024-05-22,2024-05-03,246 Walnut Blvd,Springfield,IL,62702,Westside,Condo,3,2.0,1250,0,2011,219000,222000,19,177.60,1.014,Jane Smith,Premier Realty
+S015,2024-06-04,2024-05-14,357 Chestnut St,Springfield,IL,62703,Northgate,Single Family,5,3.5,3200,12500,2017,549000,545000,21,170.31,0.993,Bob Johnson,City Living Realty
+S016,2024-06-12,2024-05-24,468 Beech Dr,Springfield,IL,62704,Southview,Single Family,3,1.5,1550,6500,1990,210000,205000,19,132.26,0.976,Alice Brown,City Living Realty
+S017,2024-06-25,2024-06-05,579 Dogwood Way,Springfield,IL,62701,Downtown,Townhouse,3,2.5,1700,1800,2013,330000,335000,20,197.06,1.015,David Lee,Horizon Homes
+S018,2024-07-09,2024-06-18,680 Redwood Ave,Springfield,IL,62702,Westside,Single Family,4,2.5,2200,9500,2006,365000,360000,21,163.64,0.986,Carol Williams,Premier Realty
+S019,2024-07-18,2024-06-28,791 Juniper Ct,Springfield,IL,62703,Northgate,Condo,2,2.0,1050,0,2015,185000,188000,20,179.05,1.016,Jane Smith,Premier Realty
+S020,2024-07-30,2024-07-10,812 Cypress Rd,Springfield,IL,62704,Southview,Single Family,4,2.0,2050,8800,2000,340000,336000,20,163.90,0.988,Bob Johnson,City Living Realty
+S021,2024-08-08,2024-07-20,923 Laurel Blvd,Springfield,IL,62701,Downtown,Single Family,3,2.0,1800,7300,1999,292000,289000,19,160.56,0.990,Alice Brown,City Living Realty
+S022,2024-08-20,2024-07-31,134 Linden St,Springfield,IL,62702,Westside,Condo,1,1.0,680,0,2019,132000,135000,20,198.53,1.023,David Lee,Horizon Homes
+S023,2024-09-03,2024-08-14,245 Maplewood Dr,Springfield,IL,62703,Northgate,Single Family,5,4.0,3500,13000,2020,599000,595000,20,170.00,0.993,Carol Williams,Premier Realty
+S024,2024-09-16,2024-08-27,356 Clearview Ln,Springfield,IL,62704,Southview,Townhouse,3,2.5,1750,1600,2009,280000,278000,20,158.86,0.993,Jane Smith,Premier Realty
+S025,2024-09-25,2024-09-05,467 Ridgewood Ave,Springfield,IL,62701,Downtown,Single Family,4,3.0,2400,9800,2004,410000,408000,20,170.00,0.995,Bob Johnson,City Living Realty
+S026,2024-10-07,2024-09-17,578 Hillside Rd,Springfield,IL,62702,Westside,Single Family,3,2.0,1700,7100,2002,278000,275000,20,161.76,0.989,Alice Brown,City Living Realty
+S027,2024-10-18,2024-09-28,689 Meadowview Ct,Springfield,IL,62703,Northgate,Condo,2,1.5,920,0,2014,162000,165000,20,179.35,1.019,David Lee,Horizon Homes
+S028,2024-10-29,2024-10-09,790 Brookside Dr,Springfield,IL,62704,Southview,Single Family,4,2.5,2250,9200,2008,375000,372000,20,165.33,0.992,Carol Williams,Premier Realty
+S029,2024-11-08,2024-10-19,801 Lakewood Blvd,Springfield,IL,62701,Downtown,Townhouse,2,2.0,1350,1100,2011,255000,258000,20,191.11,1.012,Jane Smith,Premier Realty
+S030,2024-11-20,2024-10-31,912 Oakwood Ave,Springfield,IL,62702,Westside,Single Family,5,3.5,3100,11500,2016,525000,520000,20,167.74,0.990,Bob Johnson,City Living Realty
+S031,2024-12-03,2024-11-13,123 Rosewood Ln,Springfield,IL,62703,Northgate,Single Family,3,2.0,1950,8200,1997,315000,312000,20,160.00,0.990,Alice Brown,City Living Realty
+S032,2024-12-16,2024-11-26,234 Pinecrest Dr,Springfield,IL,62704,Southview,Condo,2,2.0,1000,0,2016,178000,180000,20,180.00,1.011,David Lee,Horizon Homes
